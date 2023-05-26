@@ -1,0 +1,11 @@
+.frame1{
+    float:left;
+    border: none;
+    border-radius: 10px;
+}
+.frame2{
+    float:right;
+    border-radius: 10px;
+    -moz-border-radius: 15px;
+    scroll-behavior:auto;
+}
